@@ -18,5 +18,11 @@
   "tslint.autoFixOnSave": true,
   "typescript.tsdk": "./node_modules/typescript/lib",
   "eslint.enable": false,
-  "debug.node.autoAttach": "on"
+  "debug.node.autoAttach": "on",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#800080",
+    "titleBar.inactiveBackground": "#80008099",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  }
 }
